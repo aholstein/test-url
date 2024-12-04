@@ -27,7 +27,7 @@
             "type": ["string", "null"],
             "description": "dimensions unit"
         },
-        "dimensionsWeightWnit": {
+        "dimensionsWeightUnit": {
             "type": ["string", "null"],
             "description": "dimensions weight unit"
         },
