@@ -55,7 +55,7 @@
             "type": ["string", "null"],
             "description": "Link video youtube"
         },
-        "ThreeDLink": {
+        "threeDLink": {
             "type": ["string", "null"],
             "description": "3d link Link video "
         },
