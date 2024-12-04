@@ -7,31 +7,31 @@
             "type": ["string", "null"],
             "description": "EAN"
         },
-        "dimensions_width": {
+        "dimensionsWidth": {
             "type": ["number", "null"],
             "description": "Dimensions width mm"
         },
-        "dimensions_height": {
+        "dimensionsHeight": {
             "type": ["number", "null"],
             "description": "dimensions height mm"
         },
-        "dimensions_depth": {
+        "dimensionsDepth": {
             "type": ["number", "null"],
             "description": "depth mm"
         },
-        "dimensions_weight_net": {
+        "dimensionsWeightNet": {
             "type": ["number", "null"],
             "description": "Weight kg net"
         },
-        "dimensions_unit": {
+        "dimensionsUnit": {
             "type": ["string", "null"],
             "description": "dimensions unit"
         },
-        "dimensions_weight_unit": {
+        "dimensionsWeightWnit": {
             "type": ["string", "null"],
             "description": "dimensions weight unit"
         },
-        "group_id": {
+        "groupId": {
             "type": ["string", "null"],
             "description": "Custom group id"
         },
@@ -39,31 +39,31 @@
             "type": ["string", "null"],
             "description": "color"
         },
-        "color_group": {
+        "colorGroup": {
             "type": ["string", "null"],
             "description": "color group"
         },
-        "material_number_short": {
+        "materialNumberShort": {
             "type": ["string", "null"],
             "description": "Material number short"
         },
-        "sale_features": {
+        "saleFeatures": {
             "type": ["string", "null"],
             "description": "Sale features Text"
         },
-        "product_video_link": {
+        "productVideoLink": {
             "type": ["string", "null"],
             "description": "Link video youtube"
         },
-        "3d_link": {
+        "ThreeDLink": {
             "type": ["string", "null"],
-            "description": "3d_link Link video "
+            "description": "3d link Link video "
         },
-        "ar_Link": {
+        "arLink": {
             "type": ["string", "null"],
             "description": "Link ar link"
         },
-        "product_state": {
+        "productState": {
             "type": ["string", "null"],
             "description": "Product State"
         }
