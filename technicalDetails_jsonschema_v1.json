@@ -5,7 +5,7 @@
     "properties": {
        "technicalDetails": {
 		  "type": [
-			"string",
+			"text",
 			"null"
 		  ],
 		  "description": "Long product technicalDetails"
